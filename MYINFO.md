@@ -1,1 +1,2 @@
 # Hobby : 운동하기, 운동경기보기
+# MBTI : ESFJ
