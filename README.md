@@ -27,3 +27,6 @@
 - SEARCH 개발하기
 ## SIDEBAR 개발
 - SIDEBAR 개발 완료
+
+
+## 내비게이션 다시 무언가 추가
