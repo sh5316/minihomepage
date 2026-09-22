@@ -23,3 +23,7 @@
 ## 로그인 추가
 
 - 로그인 개발하기
+## SEARCH 개발
+- SEARCH 개발하기
+## SIDEBAR 개발
+- SIDEBAR 개발 완료
