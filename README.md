@@ -22,3 +22,5 @@
 
 ## SEARCH 개발
 - SEARCH 개발하기
+## SIDEBAR 개발
+- SIDEBAR 개발 완료
